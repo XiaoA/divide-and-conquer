@@ -1,3 +1,3 @@
 # divide-and-conquer
 
-JavaScript Divide and conquer exercises
+JavaScript divide and conquer exercises
